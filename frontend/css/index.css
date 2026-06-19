@@ -9,5 +9,6 @@ h1{
 }
 .paragraph{
     color: peru;
-    border-style:solid
+    border:20px solid black;
+    padding: 20px;
 }
