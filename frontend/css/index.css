@@ -30,3 +30,17 @@ h1{
     background-color: blanchedalmond;
 }
 
+.card{
+    width:300px;
+    border:1px solid #ccc;
+    border-radius:5px;
+    padding:20px;
+    text-align:center;
+    margin:20px auto;
+    
+}
+.card img{
+    width:200px;
+    text-align:left;
+
+}
