@@ -9,12 +9,11 @@ h1{
 }
 .para{
     color: peru;
-    border:20px solid black;
+    border:10px solid black;
     padding: 20px;
 }
 .navbar{
     color: aquamarine;
-    border: 20px;
     border-style: solid;
     border-color:black;
     padding:15px;
