@@ -7,3 +7,7 @@ h1{
 .heading{
     color:yellow;
 }
+.paragraph{
+    color: peru;
+    border-style:solid
+}
